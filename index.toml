@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "e409964da4462b04eb14fac85b8304e6b462eaca59ad34aa057255583cd3ab24"
+hash = "e71a4bd7aa7a334b0bb1d853b9aa43c01057ddf499510de51fb576bc71126cbf"
 metafile = true
 
 [[files]]
@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-recipe-book-reborn.pw.toml"
-hash = "ae5a0b62a98f3ff867b9d6fd1a4b8e55f833a6d28172ab5e7b7cc553d38c026c"
+hash = "e50d8f4b275f1b148be56d5918f81697627bbd68096944d79c0ca7c0eadee556"
 metafile = true
 
 [[files]]
