@@ -77,6 +77,18 @@ file = "config/waystones-common.toml"
 hash = "f9297c14d82d69e8d7e75219330fb2d70a6abdeb58b3edd3bf8b68b6c8033aef"
 
 [[files]]
+file = "defaultconfigs/backpacked-server.toml"
+hash = "169ac6dcbb629a69c8b25832216c7bd39758a2d557d70dbdf249fcc53de7901f"
+
+[[files]]
+file = "defaultconfigs/corpse-server.toml"
+hash = "cc85d1d783688d581f72775b1ce7ffc93c6809b3fc754e841cebff93200fad1b"
+
+[[files]]
+file = "defaultconfigs/solcarrot-server.toml"
+hash = "1619f59627dc6d7666798fd1304842a86b5ee55ac16fba72dd3ed5d8c20b9e14"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/calculation_mechanism.png"
 hash = "8658b698f18f5dbbe629f5705a2d0187063e35fc26dc0a35a33ccf5dfceec34b"
 
@@ -805,7 +817,3 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "18dca2ab04ea41ed6072bae4b8d2aa147d391f86db58a09cd094ab00c336629b"
 metafile = true
-
-[[files]]
-file = "todo.txt"
-hash = "ea4969d680103afe9995b271ecfaf00aa97959147bbb464f1ecd336750590bac"
