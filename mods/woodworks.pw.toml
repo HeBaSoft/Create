@@ -1,0 +1,13 @@
+name = "Woodworks"
+filename = "woodworks-1.19.2-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58bc71160fa609faefd3f34ae3217daa93d2f2f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4023081
+project-id = 543610

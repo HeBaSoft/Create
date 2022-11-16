@@ -1,0 +1,13 @@
+name = "Unidentified Enchantments"
+filename = "unidentifiedenchantments-1.0.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "888aa785ce5a07cc5fdb3c58611211bf844ccb17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4054271
+project-id = 582401

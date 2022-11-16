@@ -1,0 +1,13 @@
+name = "KubeJS"
+filename = "kubejs-forge-1902.6.0-build.119.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/bFNvcZyN/kubejs-forge-1902.6.0-build.119.jar"
+hash-format = "sha1"
+hash = "925683771ad37c93ac462395f218c67916bbeda5"
+
+[update]
+[update.modrinth]
+mod-id = "umyGl7zF"
+version = "bFNvcZyN"

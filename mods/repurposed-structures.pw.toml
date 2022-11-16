@@ -1,0 +1,13 @@
+name = "Repurposed Structures (Forge)"
+filename = "repurposed_structures_forge-6.3.7+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f38e1e4fea66183dac0839b9a0e364137773d60e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4087774
+project-id = 368293

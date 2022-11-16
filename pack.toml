@@ -1,0 +1,13 @@
+name = "Create"
+author = "Filipsi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "00e6c8ea03cf2b576079d2c34298e2bfc4e20572af4d99e2e46e2357ab95d0f5"
+
+[versions]
+forge = "43.1.52"
+minecraft = "1.19.2"
