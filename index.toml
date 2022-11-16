@@ -1158,11 +1158,11 @@ hash = "27c82d9df66cc0ae39ed16f3460d29745efde275c6b8effa35e6bfbc9acea33e"
 
 [[files]]
 file = "kubejs/server_scripts/computercraft/monitor_advanced.js"
-hash = "60c432dc21f23c3db0a85be514dec23598002cfc29706f41c5613738e6dcb708"
+hash = "c177dab9f6fdacb0fcfce5dcc627d75c7897b15c7aa053127b4f83a3f6792aaa"
 
 [[files]]
 file = "kubejs/server_scripts/computercraft/monitor_normal.js"
-hash = "035842878b6957075a1e43ef4269ced92e6bf791e2fe19ab2150f735dada8c65"
+hash = "860232fec2433741b568830870650f489fd94c474017873048c101627994a9e5"
 
 [[files]]
 file = "kubejs/server_scripts/computercraft/networking_cable.js"
@@ -1253,11 +1253,6 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "c96b29cfe3005467c10ee5552bacf520bb02cf3777b891cea1f20df38c5db2ed"
-metafile = true
-
-[[files]]
-file = "mods/canary.pw.toml"
-hash = "e71a4bd7aa7a334b0bb1d853b9aa43c01057ddf499510de51fb576bc71126cbf"
 metafile = true
 
 [[files]]
