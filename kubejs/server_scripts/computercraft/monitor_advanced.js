@@ -18,16 +18,16 @@ ServerEvents.recipes(event => {
 			'G': {
 				item: 'create:gearbox'
 			},
-			'L': {
-				item: 'create:display_link'
+			'R': {
+				item: 'create:redstone_contact'
 			},
 			'D': {
 				item: 'create:display_board'
 			}
 		},
 		pattern: [
-			'CLC',
-			'SGD',
+			'CSC',
+			'RGD',
 			'CSC'
 		],
 		result: {
