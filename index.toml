@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9bdd93bf8a82632caee803db273509080250cd347307e1fa57f240631f07d67f"
+hash = "29aa98bf220e629048884c7e1b243a36c7ddb893677c6ec77964c0c68a3ecaec"
 metafile = true
 
 [[files]]
@@ -748,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "67ba28f3bcfec63cbb7e70b29f15d639b4339cca55965842848ee9e9268ddfc3"
+hash = "be3060a43501f1cf0063b2c85b824c833329571425df1761f570bb0bff113aa3"
 metafile = true
 
 [[files]]
