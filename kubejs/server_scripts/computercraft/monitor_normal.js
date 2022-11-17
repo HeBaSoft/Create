@@ -23,12 +23,15 @@ ServerEvents.recipes(event => {
 			},
 			'D': {
 				item: 'create:display_board'
+			},
+			'X': {
+				item: 'create:cog'
 			}
 		},
 		pattern: [
-			'CSC',
-			'RGD',
-			'CSC'
+			'CGC',
+			'SXD',
+			'CRC'
 		],
 		result: {
 			item: 'computercraft:monitor_normal'
