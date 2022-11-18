@@ -49,10 +49,6 @@ file = "defaultconfigs/corpse-server.toml"
 hash = "cc85d1d783688d581f72775b1ce7ffc93c6809b3fc754e841cebff93200fad1b"
 
 [[files]]
-file = "defaultconfigs/easier_sleeping-server.toml"
-hash = "44ecce1d1d11012dfc917ab45f1bdbdf1c8b84832a388655d811aeec0fba77f0"
-
-[[files]]
 file = "defaultconfigs/solcarrot-server.toml"
 hash = "1619f59627dc6d7666798fd1304842a86b5ee55ac16fba72dd3ed5d8c20b9e14"
 
@@ -1265,6 +1261,11 @@ hash = "e09e7f94fe289b3e7eeb1790fa7df4dd7227a8c2f63369bcb92fa121603d799d"
 metafile = true
 
 [[files]]
+file = "mods/cant-sleep-clowns-will-eat-me.pw.toml"
+hash = "ab8f363a5b6e2519f2dd0c5452c75136134c99792736ee9d8d138d095c48170b"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "3bc013bf034fac6d11af173906783032df602b8bd5e48f9bebca669e9f81f7cd"
 metafile = true
@@ -1297,11 +1298,6 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "8efc269dee36af1fbcba2a0d29f697b710af95c11dcc466a1f4c514c24a2a47d"
-metafile = true
-
-[[files]]
-file = "mods/easier-sleeping.pw.toml"
-hash = "38583840dfcba1846ba272850baa63c4060ba53b679f7bafc782f63cf3b10720"
 metafile = true
 
 [[files]]
