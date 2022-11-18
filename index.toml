@@ -49,6 +49,10 @@ file = "defaultconfigs/corpse-server.toml"
 hash = "cc85d1d783688d581f72775b1ce7ffc93c6809b3fc754e841cebff93200fad1b"
 
 [[files]]
+file = "defaultconfigs/easier_sleeping-server.toml"
+hash = "44ecce1d1d11012dfc917ab45f1bdbdf1c8b84832a388655d811aeec0fba77f0"
+
+[[files]]
 file = "defaultconfigs/solcarrot-server.toml"
 hash = "1619f59627dc6d7666798fd1304842a86b5ee55ac16fba72dd3ed5d8c20b9e14"
 
@@ -1257,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "b2fcb78bb22390cc1061ed153e51a8ce9770f76d94b3dc21fa2404126c6612e2"
+hash = "e09e7f94fe289b3e7eeb1790fa7df4dd7227a8c2f63369bcb92fa121603d799d"
 metafile = true
 
 [[files]]
@@ -1293,6 +1297,11 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "8efc269dee36af1fbcba2a0d29f697b710af95c11dcc466a1f4c514c24a2a47d"
+metafile = true
+
+[[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "38583840dfcba1846ba272850baa63c4060ba53b679f7bafc782f63cf3b10720"
 metafile = true
 
 [[files]]
@@ -1332,7 +1341,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "2533e1596dc8b7e641e78d6b95f299e637f08f54aa7bdafb940818c41b09b872"
+hash = "e2647d3d7fc1f0afe27f57f8bdc4a365ad9bb770f9502844630458ceab2ade99"
 metafile = true
 
 [[files]]
