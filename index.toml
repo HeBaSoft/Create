@@ -1346,6 +1346,11 @@ hash = "f2339f10a16bb5cb3dc5908bb333460b6c673064099c9e64dcd75b35dda3667c"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "d2f72f45cff199f3b031cb6a3ee2b94f21444a9dce3face47ae92436155c0ad5"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "0621e3ceb90e1be4fa52d2ad6a886da1a74005148a2b4c02039af43f4908fa74"
 metafile = true
@@ -1397,7 +1402,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "14ae749bb2980cda4fb322bea3689348483c1d1109cfe203f7415166e12917d7"
+hash = "bca1146af556c052527cb7ff9e928a825f8dc5755b1e5b848acb1239d346ceca"
 metafile = true
 
 [[files]]
