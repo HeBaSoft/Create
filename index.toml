@@ -1232,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "mods/autoreglib.pw.toml"
-hash = "f29314b6e27525761a07f7b74802818ce3da9c51c9f6d21cb81f870121e57db2"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
 
 [[files]]
@@ -1377,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "a5be73aa9c5366b4039c2fd1770c70f2790194f0a9321ec4fed13de826779157"
+hash = "4219d83c6500ff292b03f2ca7ec5c7f3921f5fbc12ba09555fa3ddd174dcb548"
 metafile = true
 
 [[files]]
@@ -1432,7 +1432,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5737a971ff7d757ef27defc4e64aa3f8a052f4a594b46179e8f58584ab7f51da"
+hash = "c1385682b26c1fe0d383dc43edc677652a5bd5ce2d3fdb88e41110c431bfad2b"
 metafile = true
 
 [[files]]
