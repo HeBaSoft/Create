@@ -1227,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "707c18c2433cd8af34e6bc39468c0380be1c8f066de43b7d8a7ed511a9b56dc3"
+hash = "091b02bc3cd284cf2edcc61a568c4390333f3d3a523072a1449bd7560baa5fa2"
 metafile = true
 
 [[files]]
@@ -1342,12 +1342,17 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "f2339f10a16bb5cb3dc5908bb333460b6c673064099c9e64dcd75b35dda3667c"
+hash = "77174aba369f079eb696d3ad2f09059938c8950e88f520434997abe4fdc4aa56"
 metafile = true
 
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "d2f72f45cff199f3b031cb6a3ee2b94f21444a9dce3face47ae92436155c0ad5"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "d2f55054b5ee1bcfaffcf28b5606b6df7c5f58d4f59ec852e0ff1902e3571f69"
 metafile = true
 
 [[files]]
@@ -1432,7 +1437,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c1385682b26c1fe0d383dc43edc677652a5bd5ce2d3fdb88e41110c431bfad2b"
+hash = "16b3073599a2b10d734db0487f02b85761ac0a9a1919d793246ed0e016aff7c3"
 metafile = true
 
 [[files]]
