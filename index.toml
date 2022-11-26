@@ -38,7 +38,7 @@ hash = "8ace0059e76ec9034f488b13bd5ded15f6af3a1413ec464269862c5d10266a78"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "f9297c14d82d69e8d7e75219330fb2d70a6abdeb58b3edd3bf8b68b6c8033aef"
+hash = "b7415ea0dd7f938151df7e1d250bb72a01492d5485471cab1d5c3516c44945a5"
 
 [[files]]
 file = "defaultconfigs/backpacked-server.toml"
