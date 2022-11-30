@@ -1342,7 +1342,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "77174aba369f079eb696d3ad2f09059938c8950e88f520434997abe4fdc4aa56"
+hash = "1de85da1f1090191aaec52cf5b4079b02affe63ccb48563d140b9a42da71d4b1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "fa72da143ce3f6b598020b4ee5cc94c6e338535146f94fe468023a86691a7e91"
 metafile = true
 
 [[files]]
@@ -1407,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "bca1146af556c052527cb7ff9e928a825f8dc5755b1e5b848acb1239d346ceca"
+hash = "8363783d897a18932ca2aabde2fccab11bcfaa0e54c71ec0186b6ef2f818be6e"
 metafile = true
 
 [[files]]
@@ -1437,7 +1442,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "16b3073599a2b10d734db0487f02b85761ac0a9a1919d793246ed0e016aff7c3"
+hash = "154c50f5ebbcf625fb202b33556f12c3eeb0037bdb15961446bd6905325901c3"
 metafile = true
 
 [[files]]
