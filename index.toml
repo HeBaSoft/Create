@@ -1282,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "3c74ed0f763993e2cb935fbca235ae177d1c737f31bcfc839b3573107093577c"
+hash = "5f082996400aae555af9978a352239d43ba54252cd16bffe8b40880f7c8da949"
 metafile = true
 
 [[files]]
@@ -1327,7 +1327,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "29aa98bf220e629048884c7e1b243a36c7ddb893677c6ec77964c0c68a3ecaec"
+hash = "c40ef9fab130096f9c7bd5ef0be8ed200dd20516fa35a283c5fab6fde5fb5366"
 metafile = true
 
 [[files]]
@@ -1412,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "8363783d897a18932ca2aabde2fccab11bcfaa0e54c71ec0186b6ef2f818be6e"
+hash = "9e10c5d3420e58e205203d3a41d25968fa1ff47def24e5e109afec13397989a7"
 metafile = true
 
 [[files]]
@@ -1442,7 +1442,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "154c50f5ebbcf625fb202b33556f12c3eeb0037bdb15961446bd6905325901c3"
+hash = "5ad7dca2b24790e03cc3c85d033b9922907bfe6d1860e965f57ece52230af073"
 metafile = true
 
 [[files]]
