@@ -1276,6 +1276,11 @@ hash = "7e820e700b39ceca39e26f359b8ce16bbd563212edcd57af8c2d4b7aafa30ed8"
 metafile = true
 
 [[files]]
+file = "mods/companion.pw.toml"
+hash = "d622dd71c25dd899a39620b2c8cb09cf0a3268d95964895167af485c1953f42e"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "17ff6cf3ba2791f91f54285f2a47a67c0090c1b34d4c665c73721a2467c973f3"
 metafile = true
@@ -1321,8 +1326,18 @@ hash = "8814533ec5535f3eeaecb1b6fc8e97c4e6e85546de82428e6824b98855d60d0d"
 metafile = true
 
 [[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "51436656f2fbac1996b8b0db1313674727e70dd14ed8e102a4ea8905c82b4860"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
+metafile = true
+
+[[files]]
+file = "mods/festive-delight.pw.toml"
+hash = "7644998742bc7d7d5272e4393fb62aeb40c3784c611015e93810a103a767af47"
 metafile = true
 
 [[files]]
