@@ -1,12 +1,12 @@
 name = "Create"
 author = "Filipsi"
-version = "1.0.16"
+version = "1.0.17"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "464b120eddc4a65f5487a40a182ee8300a57dce618033113833cc1c7335a5003"
+hash = "3bad81919b105c7090108bba9caeda609e3820142d9f6e7d07c7791b00f4e120"
 
 [versions]
 forge = "43.1.52"

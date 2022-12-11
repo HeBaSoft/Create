@@ -9,6 +9,10 @@ file = "config/backpacked-client.toml"
 hash = "9c90a99a3661abf64710365c81c00f8e1d581b2aa86125197b62d4ee15af7180"
 
 [[files]]
+file = "config/canary.properties"
+hash = "88e580afc3859716a7de7a6ba03af98ce1c481d142ef68240435076cb84cb488"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "df70dda24bf78fc9dffc6138eab297563ba43bf9cae5bef4c0c065262939bc97"
 
@@ -1227,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "091b02bc3cd284cf2edcc61a568c4390333f3d3a523072a1449bd7560baa5fa2"
+hash = "8d1ec188efcba9505dbdb6e64b6df702d510dee21ebb0d24b8d58f93ee07db87"
 metafile = true
 
 [[files]]
@@ -1342,7 +1346,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c40ef9fab130096f9c7bd5ef0be8ed200dd20516fa35a283c5fab6fde5fb5366"
+hash = "bea89faf335c7c8cbb0e37c223770d98d73a420738745ec47700ed97857df871"
 metafile = true
 
 [[files]]
@@ -1402,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "4219d83c6500ff292b03f2ca7ec5c7f3921f5fbc12ba09555fa3ddd174dcb548"
+hash = "81e4b9cf08e43c6b17479fdd416e6ca4cc9b2a169f89a312e8d321620a88f0cc"
 metafile = true
 
 [[files]]
@@ -1427,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "9e10c5d3420e58e205203d3a41d25968fa1ff47def24e5e109afec13397989a7"
+hash = "20c40c9a0ada4132b482abd78762f78d26ca0f26a32d44a27e4843536a4b9ee3"
 metafile = true
 
 [[files]]
@@ -1442,7 +1446,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "672251b487a8437bd53f9d8410911d8bd18632d2fa768ff2389c8f768f97b32e"
+hash = "9435f9fc89e8c694bfb896dbe51e1bb92955b37a2407da3a89b200afdf5c4b4e"
 metafile = true
 
 [[files]]
