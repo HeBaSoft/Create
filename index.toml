@@ -1375,11 +1375,6 @@ hash = "d2f72f45cff199f3b031cb6a3ee2b94f21444a9dce3face47ae92436155c0ad5"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "d2f55054b5ee1bcfaffcf28b5606b6df7c5f58d4f59ec852e0ff1902e3571f69"
-metafile = true
-
-[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "0621e3ceb90e1be4fa52d2ad6a886da1a74005148a2b4c02039af43f4908fa74"
 metafile = true
