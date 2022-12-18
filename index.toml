@@ -1287,12 +1287,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "5f082996400aae555af9978a352239d43ba54252cd16bffe8b40880f7c8da949"
+hash = "8255894b22721ea15913f64f1840b679123f63df8f39fe6930f4fa0e63efa5f2"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "cf5538f4a5f9aca00118214ba4b004bc3cee6acc7b1fb9941887c191fb76ce08"
+hash = "0506eae1f3c72ad33a37ad8eaa2fbeebaedb2f9cf630461f5265d672473ebc44"
 metafile = true
 
 [[files]]
@@ -1342,7 +1342,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c40ef9fab130096f9c7bd5ef0be8ed200dd20516fa35a283c5fab6fde5fb5366"
+hash = "308b5db27efdb9f3a70a996660e153f67b4942d9524b3b8bb69b73933764e60a"
 metafile = true
 
 [[files]]
@@ -1402,7 +1402,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "4219d83c6500ff292b03f2ca7ec5c7f3921f5fbc12ba09555fa3ddd174dcb548"
+hash = "f828d8032e351c83b761396313b5e7cb478b86a013ead06902ae8a4c4f6fec01"
 metafile = true
 
 [[files]]
@@ -1437,12 +1437,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "7357a555419e9fae3f130da2a11671816cf63b23dcdd604eaf9f44bf88f34a04"
+hash = "29f89d36d3eac9e3b276ad44ed45ac806f951b50b1f56ad7864918e6078666c3"
 metafile = true
 
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "672251b487a8437bd53f9d8410911d8bd18632d2fa768ff2389c8f768f97b32e"
+hash = "9435f9fc89e8c694bfb896dbe51e1bb92955b37a2407da3a89b200afdf5c4b4e"
 metafile = true
 
 [[files]]
